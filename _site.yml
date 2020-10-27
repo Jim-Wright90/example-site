@@ -1,0 +1,25 @@
+name: Course title
+output_dir: '.'
+
+navbar:
+  title: Course title # I usually put the course number here
+  left:
+  - text: Slides, Readings, & Schedule
+    href: schedule.html # need a corresponding schedule.Rmd
+  - text: Assignments
+    href: assignments.html # need a corresponding assignments.Rmd
+  right:
+  - text: Syllabus
+    href: site-syllabus.html # need a corresponding site-syllabus.Rmd
+  - icon: fa-github
+    href: # link to the repo
+
+output:
+  html_document:
+    theme: journal # specify the theme you want. See here: https://bootswatch.com/3/
+    #css: website-custom.css # add in custom css if you want
+    includes:
+      after_body: footer.html # for license
+    lib_dir: site_libs
+    self_contained: no
+

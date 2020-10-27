@@ -1,0 +1,25 @@
+---
+title: "Schedule"
+author: "Daniel Anderson"
+date: "10/27/2020"
+output: html_document
+---
+
+| Week| Topic| Readings |
+|:---:| :---:|:--------:|
+|  1  | [flexdashboards](slides/flex.html) | [Data science](readings/DataScienceWhitesheet_Icons.pdf)|
+| 2   |      |
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Plot
+```{r , message = FALSE}
+library(tidyverse)
+theme_set(theme_minimal())
+ggplot(mpg, aes(displ, hwy)) +
+  geom_point() +
+  geom_smooth()
+```

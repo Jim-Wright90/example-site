@@ -1,0 +1,5 @@
+---
+title: "Course title"
+---
+
+Description of the course here
