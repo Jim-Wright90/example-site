@@ -2,7 +2,7 @@ name: Management of Acquired Cognitive Impairments
 output_dir: '.'
 
 navbar:
-  title: CDS 663 # I usually put the course number here
+  title: CDS 663 
   left:
   - text: Slides, Readings, & Schedule
     href: schedule.html # need a corresponding schedule.Rmd
