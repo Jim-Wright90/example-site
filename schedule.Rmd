@@ -1,25 +1,37 @@
 ---
-title: "Schedule"
-author: "Daniel Anderson"
-date: "10/27/2020"
-output: html_document
+title: "Course Agenda"
 ---
 
-| Week| Topic| Readings |
-|:---:| :---:|:--------:|
-|  1  | [flexdashboards](slides/flex.html) | [Data science](readings/DataScienceWhitesheet_Icons.pdf)|
-| 2   |      |
-
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
-# Plot
-```{r , message = FALSE}
-library(tidyverse)
-theme_set(theme_minimal())
-ggplot(mpg, aes(displ, hwy)) +
-  geom_point() +
-  geom_smooth()
-```
+| **Week** |  **Date**    | **Modality**            |           **Lead Instructor**                                                |                          **Topic**                                                        | **Readings** | **Due**       |
+| :------- | :----------: | :----------------------------: | :----------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: | :----------: | :-----------: |
+| 1a       |    1/5/21    |       Synchronous              |        Aaron & Jim           |          [Course Description; Introduction to cognitive rehabilitation; mechanism of injury]()        | [Koehler et al. (2012) IOM Report on Cognitive Rehabilitation](); [Turkstra et al. (2012)]()       |                    | 
+| 1b       |    1/7/21    |       Synchronous              |        Aaron & Jim           |          [Prevention; Overview of cognitive process areas; Overview of interventions]()        | Chapters 1 & 4, Sohlberg & Turkstra (2011)       |                    | 
+| 1c       |    Home Lecture    |       Asynchronous              |                   |          [Craig Hospital Video]()        |        |     [Video Assignment]()               | 
+| 2a       |    1/12/21    |       Synchronous              |        Aaron & Jim           |          [Assessment and intervention fundamentals (MI, GAS)]()        | [Turkstra et al. (2005)](); [Grant & Ponsford (2004)]()       |                    | 
+| 2b       |    1/14/21    |       Synchronous              |        Aaron            |          [Fundamentals Continued: therapeutic rapport, coaching & instruction models that promote resiliency, reflection, and self-efficacy]()        | [Clinician's Guide to mTBI chapters 1 & 2](); [Aaron's paper](); [Hillig, Ma, & Dorsch (2019)](); [podcast episode](https://www.listennotes.com/podcasts/therapy-insiders/is-empathy-real-conversation-HX1TcGK2lxJ/)       |       [**R&C 1 (in-class)**]()             | 
+| 2c       |    Home Lecture    |       Asynchronous              |        Aaron & Jim           |          Discussion board question topics        |        |       **Quiz** - Due Jan 15th              | 
+| 3a       |    1/19/21    |       Synchronous              |        Jim           |          [Models of Attention; Direct Attention Training]()        | [APT-3 Manual pg. 1-37 plus client examples on pg. 48](); [Dymowski et al. (2015)](); [Serino et al. (2007)](); [Seguin et al. (2017)]()       |                    | 
+| 3b       |    1/21/21    |       Synchronous              |        Aaron & Jim           |          Hands on lab practicing DAT/APT in preparation for assignment       |     [Sohlberg et al. (2014)]()               | DAT/APT reflection
+| 3c       |    Home Lecture    |       Asynchronous              |        Jim           |          [Lecture on DAT/APT]()        |        |         **Quiz** - Due Jan 22nd            |  
+| 4a       |    1/26/21    |       Synchronous              |        Jim & [Guest Lecturer: Heidi Iwashita](mailto:heidii@uoregon.edu)           |          [Overview of memory](); [Internal memory strategies & external memory strategies](); [Introduction to Dementia and anterograde amnesia]()        |  [working memory model 1](https://www.simplypsychology.org/working%20memory.html); [working memory model 2](http://mercercognitivepsychology.pbworks.com/w/page/61198759/Baddeley%27s%20Model%20of%20Working%20Memory); [long-term memory](https://www.simplypsychology.org/long-term-memory.html); [short term memory](https://www.simplypsychology.org/short-term-memory.html); [MSMM](https://www.simplypsychology.org/multi-store.html); [levels of processing](https://www.simplypsychology.org/levelsofprocessing.html); Chapter 1, pg. 7-9 Sohlberg & Turkstra (2011); [Shum et al. (2011)](); [O'Neil-Pirozzi, Kennedy, & Sohlberg (2015)]()        |                    | 
+| 4b       |    1/28/21    |       Synchronous              |        Heidi           |          [Dementia Overview and Intervention]()        |        |  [**R&C 2 (in-class)**](); **APT Assignment Due**                   | 
+| 4c       |    Home Lecture    |       Asynchronous              |        Heidi (Ideally)           |          [Examples of memory strategies]()        |        |   **Quiz** - Due Jan 29th                  | 
+| 5a       |    2/2/21    |       Synchronous              |        Aaron           |   [SI lecture]()        |        |       **Test 1** - in class             | 
+| 5b       |    2/4/21    |       Synchronous              |        Aaron & Jim           |          Hands on lab practicing SI in preparation for assignment        | Ch. 7 Sohlberg & Turkstra (2011); [Powell et al. (2012)](); [Svoboda (2009)]()       |       SI Lab reflection             | 
+| 5c       |    Home Lecture    |       Asynchronous              |        Aaron & Jim           |          [SI practices and training of ATC]()        | [Koehler et al. (2012) IOM Report on Cognitive Rehabilitation](); [Turkstra et al. (2012)]()       |          **Quiz** - Due Feb 5th          | 
+| 6a       |    2/9/21    |       Synchronous              |        Aaron           |          [Overview of EF; Introduce MSI]()        | Chapter 8 Sohlberg & Turkstra (2011); [Spikeman et al. (2010)](); [Stamenova & Levine (2018)]()       |                    | 
+| 6b       |    2/11/21    |       Synchronous              |        Aaron           |          [Overview of self-awareness (Denial, Apathy, Management)]()        |       |     [**R&C 3 (in-class)**]()               | 
+| 6c       |    Home Lecture    |       Asynchronous              |        Jim           |          [MSI leftover and MSI video]()        |        |      **Quiz** - Due Feb 12th              | 
+| 7a       |    2/16/21    |       Synchronous              |        Guest Lecturer: Heidi            |          [Social Communication Overview: Assessment and Intervention]()        | [Ylvisaker (2006)](); [Dahlberg (2007)](); [Hoepner et al. (2019)]()       |                    | 
+| 7b       |    2/18/21    |       Synchronous              |        Jim           |          [Concussion Management]()        | [Hardin & Kelly (2019)](); [Wright & Sohlberg (2020)](); [RTL podcast](https://podcasts.apple.com/us/podcast/episode-69-return-to-school-work/id1357687909?i=1000455495336); [Concussion mental health podcast](https://podcasts.apple.com/us/podcast/episode-67-concussions-mental-health/id1357687909?i=1000453724696); [Nocebo effect podcast](https://podcasts.apple.com/us/podcast/episode-60-the-nocebo-effect/id1357687909?i=1000447620919); [fatigue podcast](https://urldefense.com/v3/__https://podcasts.apple.com/us/podcast/ask-concussion-doc-complete-concussion-management/id1357687909?i=1000466732878__;!!C5qS4YX3!R1shc4TlAKa2o21YbTeV2BEnW-S4SWii5eKgMVTjOrit6R7kz7bTAR7a342cY810vzKV$)       |     **SI Portfolio Due**               | 
+| 7c       |    Home Lecture    |       Asynchronous              |        Jim           |          [Concussion Biomechanics and Pathophysiology]()        | [Giza & Hovda (2014)](); [Biomechanics of concussion podcast](https://urldefense.com/v3/__https://podcasts.apple.com/us/podcast/ask-concussion-doc-complete-concussion-management/id1357687909?i=1000459292200__;!!C5qS4YX3!VbZAOmgAQYqyGcTyFOKtKGFDvmV7nuX3dU65rCBzqiQSPpwqXcS7oOt-VnulH9cmmsA0$)       |       **Quiz** - Due Feb 19th             |
+| 8a       |    2/23/21    |       Synchronous              |        Guest Lecturer: [Melaney Granz](mailto:melaney.grenz@springfield.k12.or.us)           |          [Concussion Management in the K-12 School Setting]()        | [Gioia (2016)](); [Dachtyl & Morales (2017)](); [Knollman-Porter (2019)]()       |                    | 
+| 8b       |    2/25/21    |       Synchronous              |        Aaron/Jim/Heidi/Amanda           |          Simulation Strategy Training Lab        |        |     Simlab reflection                | 
+| 8c       |    Home Lecture    |       Asynchronous              |        Aaron           |          [Teach CLQT and Review Simucase Client]()        |        |     CLQT Reflection and Simucase reflection               | 
+| 9a       |    3/2/21    |       Synchronous              |        Guest Lecturer: Amanda Thompson           |          [Acute Inpatient Settings - Assessment and Intervention]()        | [Valitchka & Turkstra (2013)](); [Turkstra (2013)]()       |                    | 
+| 9b       |    3/4/21    |       Synchronous              |        Aaron           |          [Right Hemisphere Disorder: Management of Visual Neglect]()        |        |                    | 
+| 9c       |    Home Lecture    |       Asynchronous              |        Aaron & Jim           |          [Client video]()        |        |   **Quiz** - Due Mar 5th; develop questions for final panel on 3/11                 | 
+| 10a       |    3/9/21    |       Synchronous              |        Aaron & Jim; Guest lecturer: [Priya Kucheria]()           |          [Final lecture on cognitive domains and approaches to intervention](); [Implementing literature support of EBP into application]()        |        |                    | 
+| 10b       |    3/11/21    |       Synchronous              |        Aaron & Jim;            |          Guest panel with former BrICC client and his spouse        |        |   **PBE Assignment Due**                 | 
+| 10c       |    Home Lecture    |       Asynchronous              |        Aaron & Jim           |          Office hours to answer questions prior to final        |        |                    | 
+| Final Exam Date:       |       |                    |                  |                |       |                    | 
