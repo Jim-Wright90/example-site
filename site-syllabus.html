@@ -1,0 +1,910 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Syllabus</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/journal.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/anchor-sections-1.0/anchor-sections.css" rel="stylesheet" />
+<script src="site_libs/anchor-sections-1.0/anchor-sections.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 61px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 66px;
+  margin-top: -66px;
+}
+.section h2 {
+  padding-top: 66px;
+  margin-top: -66px;
+}
+.section h3 {
+  padding-top: 66px;
+  margin-top: -66px;
+}
+.section h4 {
+  padding-top: 66px;
+  margin-top: -66px;
+}
+.section h5 {
+  padding-top: 66px;
+  margin-top: -66px;
+}
+.section h6 {
+  padding-top: 66px;
+  margin-top: -66px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Course title</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="schedule.html">Slides, Readings, &amp; Schedule</a>
+</li>
+<li>
+  <a href="assignments.html">Assignments</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li>
+  <a href="site-syllabus.html">Syllabus</a>
+</li>
+<li>
+  <a href="https://github.com/Jim-Wright90/example-site.git">
+    <span class="fa fa-github"></span>
+     
+  </a>
+</li>
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Syllabus</h1>
+
+</div>
+
+
+<div id="cds-663-management-of-acquired-cognitive-impairments-crn-21254-4-credit-hours" class="section level2">
+<h2>CDS 663: Management of Acquired Cognitive Impairments (CRN: 21254; 4 credit hours)</h2>
+<ul>
+<li><strong>Term:</strong> Winter 2021</li>
+<li><strong>Time:</strong> 8:15 - 9:45 AM</li>
+<li><strong>Classroom:</strong> Online (Synchronous and Asynchronous)</li>
+<li><strong>Instructors:</strong>
+<ul>
+<li>Aaron Rothbart, M.S., CCC-SLLP
+<ul>
+<li><em>email:</em> <a href="mailto:arothbar@uoregon.edu">arothbar@uoregon.edu</a></li>
+<li><em>office:</em> HEDCO 371</li>
+<li><em>office hours</em>:</li>
+<li><em>pronouns:</em> “Aaron”; he/him/his</li>
+</ul></li>
+<li>Jim Wright, M.A., CCC-SLP
+<ul>
+<li><em>email:</em> <a href="mailto:jwrigh16@uoregon.edu">jwrigh16@uoregon.edu</a></li>
+<li><em>office:</em> HEDDO 270</li>
+<li><em>office hours</em>:</li>
+<li><em>pronouns:</em> “Jim”; he/him/his</li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
+<div id="course-delivery-method" class="section level1">
+<h1>Course Delivery Method</h1>
+<p>This course is designated as “00 REMOTE” and will have both synchronous class meeting times and asynchronous lectures/engagement activities. Students will be expected to attend regularly scheduled synchronous class times on-line and will be expected to participate during class time by answering questions, engaging in discussions, and completing class activities.</p>
+</div>
+<div id="course-goals-objectives" class="section level1">
+<h1>Course Goals &amp; Objectives</h1>
+<p><strong><em>Overall Course Goal</em></strong>: Provide students with a beginning level of competency to be able to implement cognitive rehabilitation with people who have acquired brain injuries in order to improve their:</p>
+<ul>
+<li>Cognitive functioning (attention, memory, executive functions, social communication)</li>
+<li>Community Participation/Social Roles</li>
+<li>Vocational/Academic/Recreational functioning</li>
+<li>Quality of life</li>
+</ul>
+<p><strong><em>Course Knowledge Objectives</em></strong>:</p>
+<ol style="list-style-type: decimal">
+<li>Understanding of acquired brain injury:
+<ul>
+<li>prevention, epidemiology, pathophysiology, and recovery mechanisms</li>
+</ul></li>
+<li>Appreciation of specific factors relevant to subpopulations including:
+<ul>
+<li>Moderate to severe traumatic brain injury (TBI)</li>
+<li>Mild traumatic brain injury(mTBI)/concussion</li>
+<li>Military/Service Members</li>
+<li>Right hemisphere damage</li>
+<li>Dementia</li>
+<li>Pediatric brain injury</li>
+</ul></li>
+<li>Understanding models of cognitive functioning for:
+<ul>
+<li>Attention</li>
+<li>Memory</li>
+<li>Executive functions</li>
+<li>Social communication</li>
+</ul></li>
+<li>Understanding the delivery of cognitive rehabilitation across the continuum of care:
+<ul>
+<li>Outpatient</li>
+<li>Acute</li>
+<li>Inpatient</li>
+<li>Community rehabilitation</li>
+</ul></li>
+</ol>
+<p><strong><em>Clinical Skills Objectives - Acquire beginning competency in:</em></strong></p>
+<ol style="list-style-type: decimal">
+<li>Motivational Interviewing</li>
+<li>Collaborative Functional Hypothesis Testing</li>
+<li>Administration of standardized cognitive screeners</li>
+<li>Measurement of collaboratively developed goals (Goal Attainment Scaling)</li>
+<li>Psychoeducation and counseling</li>
+</ol>
+<p><strong><em>Course Assessment/Intervention Objectives - Acquire beginning competency in specific assessment and treatment approaches:</em></strong></p>
+<ol style="list-style-type: decimal">
+<li>Direct attention training (impairment-based therapy)</li>
+<li>Systematic instruction methods</li>
+<li>Spaced retrieval training</li>
+<li>Selection and training of assistive technology for cognition</li>
+<li>Screening for cognition</li>
+<li>Evaluation of attention, memory, and executive functions</li>
+</ol>
+<p><em>Note regarding obtaining clinical competency and alternative clinical education (ACE) credit:</em></p>
+<ol style="list-style-type: decimal">
+<li><p>Students must demonstrate competency in accordance with the ASHA KASA standards on specified competency items. If particular assignments or exam questions pertaining to these competencies do not demonstrate beginning competency, students may be asked to complete more work to demonstrate competency regardless of overall assignment or test grade.</p></li>
+<li><p>Students will obtain clinical contact hours through alternative clinical education (ACE) methods in this course. Hence, students will be required to meet specific competencies on designated ACE class exercises in order to receive ACE hours. If competency is not met on ACE assignments, students may be asked to complete further work or they may not be able to claim clinical hours.</p></li>
+</ol>
+</div>
+<div id="course-format" class="section level1">
+<h1>Course Format</h1>
+<p>The course agenda is available on the course website. Please note that the dates for class topics may vary as we have an opportunity for discussions or clinical applications.The order of topics and readings will remain the same. Please check with the professors if you have any questions. The course will use a combination of lecture, in-class activities and discussions. The course will be supported by Canvas and the course website. Students will be expected complete all assignments by the designated due date.</p>
+</div>
+<div id="prerequisites" class="section level1">
+<h1>Prerequisites</h1>
+<ul>
+<li>Graduate level neuroanatomy course</li>
+<li>Completion of statistics and measures course</li>
+<li>Writing skills commensurate with graduate level study (e.g. ability to generate scholarly, formal writing that is organized, uses correct grammatical conventions, and APA referencing)</li>
+<li>Basic understanding of research methodology sufficient for reading journal articles</li>
+</ul>
+</div>
+<div id="course-components" class="section level1">
+<h1>Course Components</h1>
+<p><strong><em>Course Grade:</em></strong> Grades will be based on percentages received of the 215 point total as indicated below. The assignments and details on evaluation criteria are described in supplementary handouts. Final course grades may be calculated on a modified curve reflecting general class performance.</p>
+<div id="graded-activities" class="section level2">
+<h2>Graded Activities</h2>
+<ul>
+<li><strong><em>2 Midterm Exams:</em></strong> There will be two quizzes covering the information in lecture and readings. Students will evaluate each other’s responses in class and receive immediate feedback on concepts that are not clear immediately following the quiz. The two quizzes will be worth 60 cumulative points (30 points each exam).</li>
+<li><strong><em>Systematic Instruction Portfolio:</em></strong> Due <em>February 25th</em>. Please see description on the assignments section of the course website. This assignment is worth 50 points.</li>
+<li><strong><em>Direct Attention Training Assignment:</em></strong> Due <em>February 4th</em>. Please see description on the assignments section of the course website. This assignment is worth 25 points.</li>
+<li><strong><em>SIMUCASE “Larry” (CVLT assessment):</em></strong> Due <em>March 10th</em>. Please see description of SIMUCASE write up under the assignments section of the course website. This assignment is worth 20 points.</li>
+<li><strong><em>Review &amp; Chew Class Reading Discussions:</em></strong> Due as indicated on the course agenda. Please see description on the assignments section of the course website. There will be three “Review &amp; Chew” assignments each worth eight points, for a total of 24 points.</li>
+<li><strong><em>PBE Assignment</em></strong>: Add description</li>
+<li><strong><em>Student Engagement:</em></strong> Class participation is critical for synthesizing and applying information. Students are expected to attend every class and actively participate. Students will lose five class points for any missed lecture and 2 points for any class in which class expectations for etiquette, milieu, and engagement are not followed. Examples would be being tardy for class, interrupting a peer or speaker, texting or social media use during class etc. If emergency or illness prevents class attendance, students will need to alert professor prior and arrange for make-up work to be completed within three days of absence. Review &amp; Chew groups cannot be made up-See handout.</li>
+<li><strong><em>Final Exam:</em></strong> An in-class, closed book examination will be administered with questions that require students to apply concepts learned in class. The exam will be worth 40 points.</li>
+</ul>
+<p>Grading will occur as a percentage of total points. Decimals will be ignored.</p>
+<ul>
+<li>100% =A+ (225 points)</li>
+<li>95-99 = A (214-224)</li>
+<li>90-94 = A- (201-213)</li>
+<li>87-89 =B+ (196-200)</li>
+<li>84-86 =B (189-195)</li>
+<li>80-83 =B- (180-188)</li>
+</ul>
+<p><em>Anything below an 80% may not be considered meeting ASHA competencies and could result in remedial work or a requirement to retake the course.</em></p>
+</div>
+<div id="required-reading" class="section level2">
+<h2>Required Reading</h2>
+<div id="class-text" class="section level3">
+<h3>Class Text</h3>
+<p>Sohlberg, M.M. &amp; Turkstra, L. (2011) <em>Optimizing Cognitive Rehabilitation: Effective Instructional Methods.</em> New York The Guildford Press</p>
+</div>
+<div id="journal-articles" class="section level3">
+<h3>Journal Articles</h3>
+<p>Cooper, D. B., Bowles, A. O., Kennedy, J. E., Curtiss, G., French, L. M., Tate, D. F., &amp; Vanderploeg, R. D. (2016). Cognitive Rehabilitation for Military Service Members With Mild Traumatic Brain Injury: A Randomized Clinical Trial. <em>The Journal of Head Trauma Rehabilitation</em>.</p>
+<p>Dahlberg, C. A., Cusick, C. P., Hawley, L. A., Newman, J. K., Morey, C. E., Harrison-Felix, C. L., &amp; Whiteneck, G. G. (2007). Treatment efficacy of social communication skills training after traumatic brain injury: A randomized treatment and deferred treatment controlled trial. <em>Archives of Physical Medicine and Rehabilitation, 88</em>(12), 1561-1573.</p>
+<p>Dymowski, A. R., Ponsford, J. L., &amp; Willmott, C. (2015). Cognitive training approaches to remediate attention and executive dysfunction after traumatic brain injury: A single-case series. <em>Neuropsychological rehabilitation</em>, 1-29.</p>
+<p>Finch, E., Copley, A., McLisky, M., Cornwell, P. L., Fleming, J. M., &amp; Doig, E. (2019). Can goal attainment scaling (GAS) accurately identify changes in social communication impairments following TBI?. <em>Speech, Language and Hearing</em>, 1-12.</p>
+<p>Fleming, J. M., Strong, J., &amp; Ashton, R. (1996). Self-awareness of deficits in adults with traumatic brain injury: How best to measure?. <em>Brain injury, 10</em>(1), 1-16.</p>
+<p>Grant, M., &amp; Ponsford, J. (2014). Goal attainment scaling in brain injury rehabilitation: Strengths, limitations and recommendations for future applications. <em>Neuropsychological rehabilitation, 24</em>(5), 661-677.</p>
+<p>Hillig, T., Ma, H., &amp; Dorsch, S. (2019). Goal-oriented instructions increase the intensity of practice in stroke rehabilitation compared with non-specific instructions: A within-participant, repeated measures experimental study. <em>Journal of Physiotherapy, 65</em>(2), 95-98.</p>
+<p>Hoepner, J. K., Olson, S. E., Hoepner, J. K., &amp; Olson, S. E. (2018). Joint video self-modeling as a conversational intervention for an individual with traumatic brain injury and his everyday partner: A pilot investigation. <em>Clinical Archives of Communication Disorders, 3</em>(1), 22-41.</p>
+<p>Koehler, R., Wilhelm, E., &amp; Shoulson, I. (Eds.). (2012). <em>Cognitive rehabilitation therapy for traumatic brain injury: Evaluating the evidence</em>. National Academies Press.</p>
+<p>Leopold, A., Lourie, A., Petras, H., &amp; Elias, E. (2015). The use of assistive technology for cognition to support the performance of daily activities for individuals with cognitive disabilities due to traumatic brain injury: The current state of the research. <em>NeuroRehabilitation, 37</em>(3), 359-378.</p>
+<p>Muelenbroek, P., Ness, B., Lemoncello, R., Byom, L., MacDonald, L., O’Neil-Pirozzi, T., Sohlberg, M.M. (in press) Social communication following traumatic brain injury part two: Integrating Theory with Treatment Components. <em>Journal of International Speech Pathology</em>.</p>
+<p>OʼNeil-Pirozzi, T. M., Kennedy, M. R., &amp; Sohlberg, M. M. (2015). Evidence-Based practice for the use of internal strategies as a memory compensation technique after brain injury: A systematic review. <em>The Journal of Head Trauma Rehabilitation</em>. DOI: 10.1097/HTR.0000000000000181</p>
+<p>Powell, LE, Glang, A, Ettel,D et. al (2012). Systematic instruction for individuals with acquired brain injury: A randomized controlled trial. <em>Neuropsychological Rehabilitation, 22</em>(1), 85-112</p>
+<p>Schmidt, J., Fleming, J., Ownsworth, T., &amp; Lannin, N. A. (2012). Video feedback on functional task performance improves self-awareness after traumatic brain injury A randomized controlled trial. <em>Neurorehabilitation and neural repair</em>, 1545968312469838.</p>
+<p>Séguin, M., Lahaie, A., Matte-Gagné, C., &amp; Beauchamp, M. H. (2017). Ready! Set? Let’s Train!: Feasibility of an intensive attention training program and its beneficial effect after childhood traumatic brain injury. <em>Annals of physical and rehabilitation medicine</em>.</p>
+<p>Serino, A., Ciaramelli, E., Santantonio, A. D., Malagù, S., Servadei, F., &amp; Làdavas, E. (2007). A pilot study for rehabilitation of central executive deficits after traumatic brain injury. <em>Brain Injury, 21</em>(1), 11-19.</p>
+<p>Shum, D., Fleming, J., Gill, H., Gullo, M. J., &amp; Strong, J. (2011). A randomized controlled trial of prospective memory rehabilitation in adults with traumatic brain injury. <em>Journal of rehabilitation medicine, 43</em>(3), 216-223.</p>
+<p>Sohlberg, M.M., Harn, B., MacPherson, H., Wade, S.L. (2014). A pilot study evaluating attention and strategy training in pediatric traumatic brain injury. <em>Clinical Practice in Pediatric Psychology, 2</em>(3), 263-280.</p>
+<p>Spikeman, JM, Boelen, DH, Lamberts, K. et al., (2010). Effects of a multifaceted treatment program for executive dysfunction after acquired brain injury on indications of executive functioning in daily life, <em>Journal of International Neuropsychological Society</em>, 16, 118-129.</p>
+<p>Stamenova, V., &amp; Levine, B. (2018). Effectiveness of goal management training® in improving executive functions: A meta-analysis. <em>Neuropsychological rehabilitation</em>, 1-31.</p>
+<p>Svoboda, E. &amp; Richards, B. (2009). Compensating for anterograde amnesia: A new training method that capitalizes on emerging smartphone technologies. <em>Journal of the International Neuropsychology Society</em>, 15, 629-638.</p>
+<p>Turkstra, L., Ylvisaker, M., Coelho, C., Kennedy, M., Sohlberg, M.M., Avery, J., &amp; Yorkston, K. (2005). Practice guidelines for standardized assessment for persons with traumatic brain injury. <em>Journal of Medical Speech Language Pathology,13</em>(2), ix-xxxviii.</p>
+<p>Turkstra, L. S., Norman, R., Whyte, J., Dijkers, M. P., &amp; Hart, T. (2016). Knowing What We’re Doing: Why Specification of Treatment Methods Is Critical for Evidence-Based Practice in Speech-Language Pathology. <em>American Journal of Speech-Language Pathology, 25</em>(2), 164-171.</p>
+<p>Turkstra, L. S. (2013). Inpatient cognitive rehabilitation: Is it time for a change?. <em>The Journal of head trauma rehabilitation, 28</em>(4), 332-336.</p>
+<p>Valitchka, L., &amp; Turkstra, L. S. (2013, August). Communicating with inpatients with memory impairments. In <em>Seminars in speech and language</em> Vol. 34, No. 3, pp. 142-153).</p>
+<p>Ylvisaker, M. (2006). Self-coaching: A context-sensitive, person-centered approach to social communication after traumatic brain injury. <em>Brain Impairment, 7</em>(3), 246-258.</p>
+</div>
+</div>
+<div id="clinical-materials" class="section level2">
+<h2>Clinical Materials</h2>
+<ul>
+<li>APT-3 Manual</li>
+<li>Awareness Tips</li>
+<li>Disability Rating Scale (DRS)</li>
+<li>Rancho Los Amigos Scale</li>
+<li>Global DAT</li>
+<li>Clinical Guide (mTBI)</li>
+<li>Galveston Orientation and Amnesia Test</li>
+<li>Chapter 5 ACRM - visual scanning training/hemispatial negelct</li>
+</ul>
+</div>
+<div id="recommended-reading-practice-guidelinesebp-review" class="section level2">
+<h2>Recommended Reading Practice Guidelines/EBP Review</h2>
+<ol style="list-style-type: decimal">
+<li><p>Websites with systematic reviews</p>
+<ul>
+<li><a href="http://www.psycbite.com">Data base for treatment efficiency articles</a></li>
+<li><a href="http://www.internationalbrain.org/?q=node/135">IBIA List of Reviews</a></li>
+<li><a href="http://www.ancds.org/">ANCDS website</a></li>
+<li><a href="http://www.asha.org/EvidenceMapLanding.aspx?id=8589936624&amp;recentarticles=false&amp;year=undefined&amp;tab=all">ASHA Evidence Maps</a></li>
+</ul></li>
+</ol>
+<p><em>Note</em>: when accessing ANCDS website, first click on <em>Practice Guidelines</em> and then <em>TBI</em></p>
+<ol start="2" style="list-style-type: decimal">
+<li><p>EBP Review Articles</p>
+<ul>
+<li><p>INCOG Recommendations for Best Practices in Cognitive Rehabilitation Journal of Head Trauma Rehabilitation (2014, 29(4): Part 1-V (Attention/Speed of Processing, Executive Functions, Memory)</p></li>
+<li><p>Cicerone, K. et. al. (2011). Evidence based cognitive rehabilitation: Updated review of the literature 2003 through 2008. <em>Archives of Physical Medicine &amp; Rehabilitation, 92</em>(4), 519-530.</p></li>
+<li><p>ANCDS Systematic Reviews</p></li>
+</ul></li>
+<li><p>Informational Websites</p>
+<ul>
+<li><a href="http://brainline.org">General information about brain injury for professionals, survivors, educators, and careproviders</a></li>
+<li><a href="https://bestconnections.org">Review of apps for phones, tablets, and computers to assist people with cognitive impairments</a></li>
+<li><a href="http://www.biausa.org">Brain Injury Association of America</a></li>
+<li><a href="http://dvbic.dcoe.mil/cogrehab/index.html">Defense and Veterans Brain Injury Center (DVBIC) website</a></li>
+<li><a href="https://dvbic.dcoe.mil/system/files/resources/5001.1.1.26_CogRehab_CR_Appendices_508.pdf">DVBIC Resources</a></li>
+<li><a href="http://www.asha.org/uploadedFiles/ASHA/Practice_Portal/Clinical_Topics/Traumatic_Brain_Injury_in_Adults/Clinicians-Guide-to-Cognitive-Rehabilitation-in-Mild-Traumatic-Brain-Injury.pdf">Clinician’s Guide to mTBI</a></li>
+<li><a href="https://dvbic.dcoe.mil/study-manuals">SCORE Study Manuals</a></li>
+</ul></li>
+</ol>
+</div>
+<div id="expectations" class="section level2">
+<h2>Expectations</h2>
+<div id="instructor-expectations-so-that-students-can-maximize-the-learning-experience" class="section level3">
+<h3>Instructor Expectations so that Students Can Maximize the Learning Experience</h3>
+<ol style="list-style-type: decimal">
+<li><p><strong>Approach class with an active, ready-to-learn, receptive stance.</strong> When students are curious, ask questions, remain non-defensive if provided with critical feedback, and actively engage with the material—they learn. Adopting a mindset of active learning versus passive receipt of material is critical.</p></li>
+<li><p><strong>Come prepared.</strong> This class is set up to build on the readings and give you a chance to apply the concepts. If you have not read the assignments, the lecture and application exercises will not be as useful. Students are expected to come having completed the assigned work to the best of their ability.</p></li>
+<li><p><strong>Observe standard classroom etiquette and clinical professionalism.</strong> Being punctual, not talking out of turn, and being respectful of all members of the classroom ensures a productive learning milieu. Please turn off your cell phones and do not have social network or email open on your computer during class. Students are expected to adhere to our Code of Ethics including confidentiality when discussing clinic cases. Observe the Diversity expectations listed below and contribute to an inclusive class climate.</p></li>
+<li><p><strong>Communicate with me as the instructor.</strong> Sometimes you may need some extra review or a concept is not clear to you. After you wrestle with the material, and you still need assistance, then come see me. I will always make time to assist with your learning if you are doing your part. I need to know if elements of the class are not working for you. Every student is different. It is your responsibility to communicate concerns to me as I have no other way of knowing. Sometimes an instructor inadvertently makes a statement that offends or hurts—that instructor needs to know this and be given a chance to apologize. Sometimes a student has an unforeseen circumstance that gets in the way of being prepared. Communicating with me allows us to make a plan so you can still learn the material. I request honest, open communication with my students.</p></li>
+<li><p><strong>Communicate with your peers.</strong> Look around you today. The people in this class will be your peers in the field. It will not be me. I will be asking you to practice learning from each other. Your master’s program gives you only the most basic foundation to begin practicing. You will need to deepen your knowledge in specific areas and develop a plan for lifetime learning if you want to be a solid, and ideally, an excellent clinician. Part of this is learning how to network, and teach and learn from one another.</p></li>
+</ol>
+</div>
+<div id="student-expectations-of-instructor-to-maximize-student-learning-experience" class="section level3">
+<h3>Student Expectations of Instructor to Maximize Student Learning Experience</h3>
+<ol style="list-style-type: decimal">
+<li><p><strong>Approach class with an open, receptive attitude.</strong> I need to be ready to learn from you, my students. You may have information or resources that are new to me. If several students are letting me know they don’t understand material, I need to listen, be non-defensive and flexible in altering my teaching. I need to remember that: a) this is not the only class students are taking; b) not everyone learns in the same way or approaches their training in the same fashion; and c) sometimes life gets in the way, and my instructor expectations cannot be met. This does not mean that I alter my goals for what you learn, but I will try and find ways that work for each of you to do the work it takes to learn the material and apply it to your practice.</p></li>
+<li><p><strong>Come prepared.</strong> My lectures should be organized. My reading list should be relevant. Class lectures should be tied to the reading and extend the information presented within. I should provide advance organizers to help you integrate the reading. The activities I ask you to do should provide you with practice in clinical decision making with sufficient structure so you practice relevant clinical skills. I should try and make the information interesting by providing actual clinical examples and tying lectures and exercises to actual clients.</p></li>
+<li><p><strong>Observe classroom etiquette and an inclusive milieu.</strong> I should be punctual and not talk when others are talking. As the instructor I am responsible for guiding discussions and ensuring a respectful atmosphere. I should make sure that all members of the class feel included and comfortable in participating in discussions and asking questions. If students express discomfort, I should take steps to remedy the situation.</p></li>
+<li><p><strong>Facilitate Communication.</strong> I should be an active listener and an honest open communicator. If I have a concern, I should check it out directly with the student. If I make a mistake in my communication, I should apologize and ask for clarification on how to avoid misunderstandings in the future. I should make sure I am reasonably available by returning emails promptly and making space in my schedule for requested face to face meetings.</p></li>
+</ol>
+</div>
+</div>
+<div id="student-engagement-inventory" class="section level2">
+<h2>Student Engagement Inventory</h2>
+<p>Graduate Courses Graduate students are expected to perform work of higher quality and quantity, typically with forty hours of student engagement for each student credit hour. Therefore, a 4-credit graduate course would typically engage students approximately 160 hours for the average student for whom the course is designed.</p>
+<table>
+<colgroup>
+<col width="14%" />
+<col width="15%" />
+<col width="69%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="left"><strong>Educational activity</strong></th>
+<th align="center"><strong>Hours student engaged</strong></th>
+<th align="left"><strong>Explanatory comments (if any):</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">Course attendance</td>
+<td align="center">18.5</td>
+<td align="left"></td>
+</tr>
+<tr class="even">
+<td align="left">Assigned readings</td>
+<td align="center">65.5</td>
+<td align="left">3hr per chapter X 6 chapters; 2 hr X 20 articles; 1.5 hr X 5 supplementary clinical material</td>
+</tr>
+<tr class="odd">
+<td align="left">Projects</td>
+<td align="center">20</td>
+<td align="left">Systematic Instructional Portfolio (15 hours); Direct Attention Training Assignment (3 hours); Simucase (2 hours)</td>
+</tr>
+<tr class="even">
+<td align="left">Review &amp; Chew Preparation</td>
+<td align="center">5</td>
+<td align="left">1 hr X 5 applications</td>
+</tr>
+<tr class="odd">
+<td align="left">Exam Preparation</td>
+<td align="center">10</td>
+<td align="left"></td>
+</tr>
+<tr class="even">
+<td align="left">Final Exam Preparation</td>
+<td align="center">14</td>
+<td align="left"></td>
+</tr>
+<tr class="odd">
+<td align="left">Total hours:</td>
+<td align="center">~145-160</td>
+<td align="left"></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<div id="additional-information" class="section level1">
+<h1>Additional Information</h1>
+<div id="diversity-equity-and-inclusion" class="section level2">
+<h2>Diversity, Equity and Inclusion</h2>
+<p>It is the policy of the University of Oregon to support and value equity and diversity and to provide inclusive learning environments for all students. To do so requires that we:</p>
+<ul>
+<li><p>respect the dignity and essential worth of all individuals.</p></li>
+<li><p>promote a culture of respect throughout the University community.</p></li>
+<li><p>respect the privacy, property, and freedom of others.</p></li>
+<li><p>reject bigotry, discrimination, violence, or intimidation of any kind.</p></li>
+<li><p>practice personal and academic integrity and expect it from others.</p></li>
+</ul>
+<p>*promote the diversity of opinions, ideas and backgrounds which is the lifeblood of the university.</p>
+<p>In this course, class discussions, projects/activities and assignments will challenge students to think critically about and be sensitive to the influence, and intersections, of race, ethnicity, nationality, documentation, language, religion, gender, socioeconomic background, physical and cognitive ability, sexual orientation, and other cultural identities and experiences. Students will be encouraged to develop or expand their respect and understanding of such differences.</p>
+<p>Maintaining an inclusive classroom environment where all students feel able to talk about their cultural identities and experiences, ideas, beliefs, and values will not only be my responsibility, but the responsibility of each class member as well. Behavior that disregards or diminishes another student will not be permitted for any reason. This means that no racist, ableist, transphobic, xenophobic, chauvinistic or otherwise derogatory comments will be allowed. It also means that students must pay attention and listen respectfully to each other’s comments.</p>
+</div>
+<div id="indigenous-recognition-statement" class="section level2">
+<h2>Indigenous Recognition Statement</h2>
+<p>The University of Oregon is located on Kalapuya Ilihi, the traditional indigenous homeland of the Kalapuya people. Today, descendants are citizens of the Confederated Tribes of the Grand Ronde Community of Oregon and the Confederated Tribes of the Siletz Indians of Oregon, and they continue to make important contributions in their communities, at UO, and across the land we now refer to as Oregon.</p>
+</div>
+<div id="using-pronouns-and-personal-preference" class="section level2">
+<h2>Using Pronouns and Personal Preference</h2>
+<p>The College of Education is always working to include and engage everyone. One way we can do this is to share our pronouns, or the words we want to be called when people aren’t using our name. Like names, pronouns are an important part of how we identify ourselves. Because we recognize that assuming someone’s gender can be hurtful, especially to members of our community who are transgender, genderqueer, or non-binary this practice can assist in promoting respectful communication. As a community, we are all learning together about the importance of pronouns and being better allies to the trans community on campus. If you would like to ensure clarity around pronouns, please feel free to share any pronouns you would prefer me to use when referring to you to help me be aware of how to address you respectfully. <a href="https://studentlife.uoregon.edu/pronouns">Please visit this university website for more information.</a></p>
+</div>
+<div id="documented-disability" class="section level2">
+<h2>Documented Disability</h2>
+<p>Appropriate accommodations will be provided for students with documented disabilities. If you have a documented disability and require accommodation, arrange to meet with the course instructor within the first two weeks of the term. The documentation of your disability must come in writing from the Accessible Education Center in the Office of Academic Advising and Student Services. Disabilities may include (but are not limited to) neurological impairment, orthopedic impairment, traumatic brain injury, visual impairment, chronic medical conditions, emotional/psychological disabilities, hearing impairment, and learning disabilities. <a href="http://aec.uoregon.edu">Click here for more information on the Accessible Education Center</a></p>
+</div>
+<div id="mandatory-reporting-of-child-abuse" class="section level2">
+<h2>Mandatory Reporting of Child Abuse</h2>
+<p>UO employees, including faculty, staff, and Graduate Employees, are mandatory reporters of child abuse. This statement is to advise you that that your disclosure of information about child abuse to a UO employee may trigger the UO employee’s duty to report that information to the designated authorities. <a href="http://hr.uoregon.edu/policies-leaves/general-information/mandatory-reporting-child-abuse-and-neglect">Click here for detailed information about mandatory reporting:</a></p>
+</div>
+<div id="reporting-title-ix-experiences" class="section level2">
+<h2>Reporting Title IX Experiences</h2>
+<p>Any student who has experienced sexual assault, relationship violence, sex or gender-based bullying, stalking, and/or sexual harassment may seek resources <a href="https://safe.uoregon.edu/">here</a> To get help by phone, a student can also call either the UO’s 24-hour hotline at 541-346-7244 [SAFE], or the non-confidential Title IX Coordinator at 541-346-8136. From the SAFE website, students may also connect to Callisto, a confidential, third-party reporting site that is not a part of the university.</p>
+<p>Students experiencing any other form of prohibited discrimination or harassment can find information <a href="https://respect.uoregon.edu/">here</a> or <a href="https://aaeo.uoregon.edu/">here</a> or contact the non-confidential AAEO office at 541-346-3123 or the Dean of Students Office at 541-346-3216 for help. As UO policy has different reporting requirements based on the nature of the reported harassment or discrimination, additional information about reporting requirements for discrimination or harassment unrelated to sexual assault, relationship violence, sex or gender based bullying, stalking, and/or sexual harassment is available <a href="http://aaeo.uoregon.edu/content/discrimination-harassment">here</a></p>
+<p>Specific details about confidentiality of information and reporting obligations of employees can be found <a href="https://titleix.uoregon.edu">here</a></p>
+<p>The instructor of this class will direct students who disclose sexual harassment or sexual violence to resources that can help and has the responsibility to report the information shared with them to the university administration. The instructor of this class is required to report all</p>
+</div>
+<div id="academic-misconduct-policy" class="section level2">
+<h2>Academic Misconduct Policy</h2>
+<p>All students are subject to the regulations stipulated in the <a href="http://conduct.uoregon.edu">UO Student Conduct Code.</a> This code represents a compilation of important regulations, policies, and procedures pertaining to student life. It is intended to inform students of their rights and responsibilities during their association with this institution, and to provide general guidance for enforcing those regulations and policies essential to the educational and research missions of the University.</p>
+</div>
+<div id="conflict-resolution" class="section level2">
+<h2>Conflict Resolution</h2>
+<p>Several options, both informal and formal, are available to resolve conflicts for students who believe they have been subjected to or have witnessed bias, unfairness, or other improper treatment.</p>
+<p>It is important to exhaust the administrative remedies available to you including discussing the conflict with the specific individual, contacting the Department Head, or within the College of Education, fall term you can contact the Associate Dean for Academic Affairs and Equity, Lillian Duran, 541-346-2502, <a href="mailto:lduran@uoregon.edu">lduran@uoregon.edu.</a> Outside the College, you can contact: * <a href="http://bias.uoregon.edu/whatbrt.htm">UO Bias Response Team:</a> 346-3216 * <a href="http://studentlife.uoregon.edu/support">Conflict Resolution Services:</a> 346-3216 * <a href="http://aaeo.uoregon.edu/">Affirmative Action and Equal Opportunity:</a> 346-3123</p>
+</div>
+<div id="grievance-policy" class="section level2">
+<h2>Grievance Policy</h2>
+<p>A student or group of students of the College of Education may appeal decisions or actions pertaining to admissions, programs, evaluation of performance and program retention and completion. Students who decide to file a grievance should follow <a href="https://policies.uoregon.edu/grievance-procedures">University student grievance procedures</a> and/or consult with the College Associate Dean for Academic Affairs (Lillian Duran, 346-2502, <a href="mailto:lduran@uoregon.edu">lduran@uoregon.edu.</a></p>
+</div>
+<div id="in-case-of-inclement-weather" class="section level2">
+<h2>In Case of Inclement Weather</h2>
+<p>In the event the University operates on a curtailed schedule or closes, UO media relations will notify the Eugene-Springfield area radio and television stations as quickly as possible. In addition, a notice regarding the university’s schedule will be posted on the <a href="https://www.uoregon.edu/">UO main home page.</a> Additional information is available <a href="https://hr.uoregon.edu/about-hr/campus-notifications/inclement-weather">here.</a></p>
+<p>If an individual class must be canceled due to inclement weather, illness, or other reason, a notice will be posted on Canvas or via email. During periods of inclement weather, please check Canvas and your email rather than contact department personnel. Due to unsafe travel conditions, departmental staff may be limited and unable to handle the volume of calls from you and others.</p>
+</div>
+<div id="course-incomplete-policy" class="section level2">
+<h2>Course Incomplete Policy</h2>
+<p>Students are expected to be familiar with university policy regarding grades of “incomplete” and the time line for completion. For details on the policy and procedures regarding incompletes, Please see click <a href="https://education.uoregon.edu/academics/incompletes-courses">here</a></p>
+</div>
+</div>
+<div id="course-satisfaction-of-kasa-standards" class="section level1">
+<h1>Course Satisfaction of KASA Standards</h1>
+<p><strong><em>Needed for certification as a Speech-Language Pathologist</em></strong></p>
+<table style="width:100%;">
+<colgroup>
+<col width="58%" />
+<col width="11%" />
+<col width="10%" />
+<col width="10%" />
+<col width="10%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="left"><strong>Standard</strong></th>
+<th align="center"><strong>Area</strong></th>
+<th align="center"><strong>Evidence</strong></th>
+<th align="center"><strong>Evaluation Skill</strong></th>
+<th align="center"><strong>Intervention Skill</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">III-C Student must demonstrate knowledge of the nature of speech, language, hearing, and communication disorders &amp; differences and swallowing disorders, including the etiologies, charateristics/physiological, acoustic, psychological, and linguistic/cultural correlates.</td>
+<td align="center">Cognitive &amp; Social aspects of communication</td>
+<td align="center">1,2,5,8</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr class="even">
+<td align="left">III-D Student must possess knowledge of the principles &amp; methods of prevention, assessment, and intervention for people with communication and swallowing disorders.</td>
+<td align="center">Cognitive &amp; Social aspects of communication</td>
+<td align="center">1,2,5,8</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr class="odd">
+<td align="left">III-F The student must demonstrate knowledge of processes used in research &amp; the integration of research principles into evidence-based clinical practice</td>
+<td align="center">Cognitive &amp; Social aspects of communication</td>
+<td align="center">2,7</td>
+<td align="center"></td>
+<td align="center"></td>
+</tr>
+<tr class="even">
+<td align="left">Standard IVG: The applicant must complete a program of study that includes supervised clinical experiences sufficient in breadth and depth to achieve the required evaluation and intervention skills</td>
+<td align="center">Cognitive &amp; Social aspects of communication</td>
+<td align="center">3,5</td>
+<td align="center">b,c,e,f</td>
+<td align="center">a,b,c,d,e,f</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Evaluation Skills</strong></p>
+<ul>
+<li><ol style="list-style-type: lower-alpha">
+<li>= screening and prevention</li>
+</ol></li>
+<li><ol start="2" style="list-style-type: lower-alpha">
+<li>= case history synthesis</li>
+</ol></li>
+<li><ol start="3" style="list-style-type: lower-alpha">
+<li>= selection of evaluation procedures</li>
+</ol></li>
+<li><ol start="4" style="list-style-type: lower-alpha">
+<li>= adapt evaluation as appropriate</li>
+</ol></li>
+<li><ol start="5" style="list-style-type: lower-alpha">
+<li>= integrate evaluation information to develop appropriate diagnoses and recommendations</li>
+</ol></li>
+<li><ol start="6" style="list-style-type: lower-alpha">
+<li>= administrative &amp; reporting functions</li>
+</ol></li>
+<li><ol start="7" style="list-style-type: lower-alpha">
+<li>= appropriate referral</li>
+</ol></li>
+</ul>
+<p><strong>Evidence Intervention Plans</strong></p>
+<ol style="list-style-type: decimal">
+<li>Exams (a) intervention with measurable goals</li>
+<li>Papers (b) collaboration with client/relevant people</li>
+<li>Performance Evaluation (c) appropriate materials/instrumentation</li>
+<li>Presentation (d) measure/evaluate performance</li>
+<li>Demonstrations/labs (e) modify intervention plans</li>
+<li>Case studies (f) administrative/reporting functions</li>
+<li>Journal/Research Critique (g) appropriate referral</li>
+<li>Classroom discussions</li>
+</ol>
+</div>
+
+<p>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">
+<img alt="Creative Commons License" style="border-width:0" src="by-nc.png" width="65"/></a>
+</p>
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1,h2,h3",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

@@ -1,5 +1,9 @@
 ---
-title: "Course title"
+title: "CDS 663: Management of Acquired Cognitive Impairments"
 ---
 
-Description of the course here
+This course provides an in-depth review of current theory and practice in the field of cognitive rehabilitation. It is tailored for students studying to be speech-language pathologists to prepare them to work in hospitals, rehabilitation facilities and schools where they serve people with acquired cognitive impairments. The course will offer clinically-relevant background theory in attention, memory, executive functions and social communication. Students will learn principles, processes and procedures for assessing and treating acquired deficits in these areas. Information on practice contexts, such as inpatient rehabilitation and schools will be reviewed. Course emphasis will be to learn and apply researched-based, ecologically-valid cognitive assessment and intervention techniques. There is a strong emphasis on the application of instructional techniques effective for people with cognitive impairments. Caregiver training will also be addressed throughout the term. 
+
+The course utilizes a combination of readings, lecture, group discussion, videos, assessments and clinical application exercises. Participation in the Brain Injury and Concussion Clinic (BrICC) will help to reinforce content covered throughout the course. 
+
+**_Note this course and associated content was developed by Dr. McKay Sohlberg_**

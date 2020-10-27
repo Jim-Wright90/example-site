@@ -1,0 +1,390 @@
+---
+title: "Syllabus"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+## CDS 663: Management of Acquired Cognitive Impairments (CRN: 21254; 4 credit hours)
+* **Term:** Winter 2021
+* **Time:** 8:15 - 9:45 AM
+* **Classroom:** Online (Synchronous and Asynchronous)
+* **Instructors:** 
+	* Aaron Rothbart, M.S., CCC-SLLP
+		- *email:* [arothbar@uoregon.edu](mailto:arothbar@uoregon.edu)
+		- *office:* HEDCO 371
+		- *office hours*: 
+		- *pronouns:* "Aaron"; he/him/his
+	+ Jim Wright, M.A., CCC-SLP
+		- *email:* [jwrigh16@uoregon.edu](mailto:jwrigh16@uoregon.edu)
+		- *office:* HEDDO 270
+		- *office hours*: 
+		- *pronouns:* "Jim"; he/him/his
+		
+# Course Delivery Method
+This course is designated as "00 REMOTE" and will have both synchronous class meeting times and asynchronous lectures/engagement activities. Students will be expected to attend regularly scheduled synchronous class times on-line and will be expected to participate during class time by answering questions, engaging in discussions, and completing class activities. 
+
+# Course Goals & Objectives 
+
+**_Overall Course Goal_**: Provide students with a beginning level of competency to be able to implement cognitive rehabilitation with people who have acquired brain injuries in order to improve their: 
+
+* Cognitive functioning (attention, memory, executive functions, social communication)
+* Community Participation/Social Roles
+* Vocational/Academic/Recreational functioning
+* Quality of life
+
+
+**_Course Knowledge Objectives_**:
+
+1. Understanding of acquired brain injury:
+    + prevention, epidemiology, pathophysiology, and recovery mechanisms 
+2. Appreciation of specific factors relevant to subpopulations including: 
+    + Moderate to severe traumatic brain injury (TBI)
+    + Mild traumatic brain injury(mTBI)/concussion
+    + Military/Service Members 
+    + Right hemisphere damage 
+    + Dementia 
+    + Pediatric brain injury 
+3. Understanding models of cognitive functioning for:   
+    + Attention
+    + Memory
+    + Executive functions
+    + Social communication 
+4. Understanding the delivery of cognitive rehabilitation across the continuum of care:
+    + Outpatient
+    + Acute 
+    + Inpatient
+    + Community rehabilitation 
+  
+
+**_Clinical Skills Objectives - Acquire beginning competency in:_**
+
+1. Motivational Interviewing 
+2. Collaborative Functional Hypothesis Testing 
+3. Administration of standardized cognitive screeners 
+4. Measurement of collaboratively developed goals (Goal Attainment Scaling)
+5. Psychoeducation and counseling 
+  
+
+**_Course Assessment/Intervention Objectives - Acquire beginning competency in specific assessment and treatment approaches:_**
+
+1. Direct attention training (impairment-based therapy)
+2. Systematic instruction methods
+3. Spaced retrieval training 
+4. Selection and training of assistive technology for cognition 
+5. Screening for cognition 
+6. Evaluation of attention, memory, and executive functions 
+
+
+ 
+_Note regarding obtaining clinical competency and alternative clinical education (ACE) credit:_  
+
+1. Students must demonstrate competency in accordance with the ASHA KASA standards on specified competency items. If particular assignments or exam questions pertaining to these competencies do not demonstrate beginning competency, students may be asked to complete more work to demonstrate competency regardless of overall assignment or test grade. 
+  
+2. Students will obtain clinical contact hours through alternative clinical education (ACE) methods in this course. Hence, students will be required to meet specific competencies on designated ACE class exercises in order to receive ACE hours. If competency is not met on ACE assignments, students may be asked to complete further work or they may not be able to claim clinical hours.  
+
+
+# Course Format 
+
+The course agenda is available on the course website. Please note that the dates for class topics may vary as we have an opportunity for discussions or clinical applications.The order of topics and readings will remain the same. Please check with the professors if you have any questions. The course will use a combination of lecture, in-class activities and discussions. The course will be supported by Canvas and the course website. Students will be expected complete all assignments by the designated due date. 
+
+
+# Prerequisites 
+
+* Graduate level neuroanatomy course 
+* Completion of statistics and measures course
+* Writing skills commensurate with graduate level study (e.g. ability to generate scholarly, formal writing that is organized, uses correct grammatical conventions, and APA referencing)
+* Basic understanding of research methodology sufficient for reading journal articles 
+
+
+# Course Components 
+
+**_Course Grade:_** Grades will be based on percentages received of the 215 point total as indicated below. The assignments and details on evaluation criteria are described in supplementary handouts. Final course grades may be calculated on a modified curve reflecting general class performance.  
+
+## Graded Activities 
+
+  * **_2 Midterm Exams:_** There will be two quizzes covering the information in lecture and readings. Students will evaluate each other’s responses in class and receive immediate feedback on concepts that are not clear immediately following the quiz. The two quizzes will be worth 60 cumulative points (30 points each exam). 
+  * **_Systematic Instruction Portfolio:_** Due _February 25th_. Please see description on the assignments section of the course website. This assignment is worth 50 points. 
+  * **_Direct Attention Training Assignment:_** Due _February 4th_. Please see description on the assignments section of the course website. This assignment is worth 25 points. 
+  * **_SIMUCASE "Larry" (CVLT assessment):_** Due _March 10th_. Please see description of SIMUCASE write up under the assignments section of the course website. This assignment is worth 20 points.
+  * **_Review & Chew Class Reading Discussions:_** Due as indicated on the course agenda. Please see description on the assignments section of the course website. There will be three "Review & Chew" assignments each worth eight points, for a total of 24 points.
+  * **_PBE Assignment_**: Add description
+  * **_Student Engagement:_** Class participation is critical for synthesizing and applying information. Students are expected to attend every class and actively participate. Students will lose five class points for any missed lecture and 2 points for any class in which class expectations for etiquette, milieu, and engagement are not followed. Examples would be being tardy for class, interrupting a peer or speaker, texting or social media use during class etc. If emergency or illness prevents class attendance, students will need to alert professor prior and arrange for make-up work to be completed within three days of absence. Review & Chew groups cannot be made up-See handout. 
+  * **_Final Exam:_** An in-class, closed book examination will be administered with questions that require students to apply concepts learned in class. The exam will be worth 40 points. 
+
+
+Grading will occur as a percentage of total points. Decimals will be ignored.  
+
+  * 100% =A+ (225 points) 
+  * 95-99 = A (214-224) 
+  * 90-94 = A- (201-213) 
+  * 87-89 =B+ (196-200) 
+  * 84-86 =B (189-195) 
+  * 80-83 =B- (180-188) 
+
+_Anything below an 80% may not be considered meeting ASHA competencies and could result in remedial work or a requirement to retake the course._
+
+## Required Reading
+
+### Class Text
+
+Sohlberg, M.M. & Turkstra, L. (2011) _Optimizing Cognitive Rehabilitation: Effective Instructional Methods._ New York The Guildford Press  
+
+### Journal Articles 
+
+Cooper, D. B., Bowles, A. O., Kennedy, J. E., Curtiss, G., French, L. M., Tate, D. F., & Vanderploeg, R. D. (2016). Cognitive Rehabilitation for Military Service Members With Mild Traumatic Brain Injury: A Randomized Clinical Trial. _The Journal of Head Trauma Rehabilitation_. 
+
+Dahlberg, C. A., Cusick, C. P., Hawley, L. A., Newman, J. K., Morey, C. E., Harrison-Felix, C. L., & Whiteneck, G. G. (2007). Treatment efficacy of social communication skills training after traumatic brain injury: A randomized treatment and deferred treatment controlled trial. _Archives of Physical Medicine and Rehabilitation, 88_(12), 1561-1573. 
+
+Dymowski, A. R., Ponsford, J. L., & Willmott, C. (2015). Cognitive training approaches to remediate attention and executive dysfunction after traumatic brain injury: A single-case series. _Neuropsychological rehabilitation_, 1-29. 
+
+Finch, E., Copley, A., McLisky, M., Cornwell, P. L., Fleming, J. M., & Doig, E. (2019). Can goal attainment scaling (GAS) accurately identify changes in social communication impairments following TBI?. _Speech, Language and Hearing_, 1-12. 
+
+Fleming, J. M., Strong, J., & Ashton, R. (1996). Self-awareness of deficits in adults with traumatic brain injury: How best to measure?. _Brain injury, 10_(1), 1-16. 
+
+Grant, M., & Ponsford, J. (2014). Goal attainment scaling in brain injury rehabilitation: Strengths, limitations and recommendations for future applications. _Neuropsychological rehabilitation, 24_(5), 661-677. 
+
+Hillig, T., Ma, H., & Dorsch, S. (2019). Goal-oriented instructions increase the intensity of practice in stroke rehabilitation compared with non-specific instructions: A within-participant, repeated measures experimental study. _Journal of Physiotherapy, 65_(2), 95-98. 
+
+Hoepner, J. K., Olson, S. E., Hoepner, J. K., & Olson, S. E. (2018). Joint video self-modeling as a conversational intervention for an individual with traumatic brain injury and his everyday partner: A pilot investigation. _Clinical Archives of Communication Disorders, 3_(1), 22-41. 
+
+Koehler, R., Wilhelm, E., & Shoulson, I. (Eds.). (2012). _Cognitive rehabilitation therapy for traumatic brain injury: Evaluating the evidence_. National Academies Press. 
+
+Leopold, A., Lourie, A., Petras, H., & Elias, E. (2015). The use of assistive technology for cognition to support the performance of daily activities for individuals with cognitive disabilities due to traumatic brain injury: The current state of the research. _NeuroRehabilitation, 37_(3), 359-378. 
+
+Muelenbroek, P., Ness, B., Lemoncello, R., Byom, L., MacDonald, L., O’Neil-Pirozzi, T., Sohlberg, M.M. (in press) Social communication following traumatic brain injury part two: Integrating Theory with Treatment Components. _Journal of International Speech Pathology_.  
+
+OʼNeil-Pirozzi, T. M., Kennedy, M. R., & Sohlberg, M. M. (2015). Evidence-Based practice for the use of internal strategies as a memory compensation technique after brain injury: A systematic review. _The Journal of Head Trauma Rehabilitation_. DOI: 10.1097/HTR.0000000000000181 
+
+Powell, LE, Glang, A, Ettel,D et. al (2012). Systematic instruction for individuals with acquired brain injury: A randomized controlled trial. _Neuropsychological Rehabilitation, 22_(1), 85-112 
+
+Schmidt, J., Fleming, J., Ownsworth, T., & Lannin, N. A. (2012). Video feedback on functional task performance improves self-awareness after traumatic brain injury A randomized controlled trial. _Neurorehabilitation and neural repair_, 1545968312469838. 
+
+Séguin, M., Lahaie, A., Matte-Gagné, C., & Beauchamp, M. H. (2017). Ready! Set? Let's Train!: Feasibility of an intensive attention training program and its beneficial effect after childhood traumatic brain injury. _Annals of physical and rehabilitation medicine_. 
+
+Serino, A., Ciaramelli, E., Santantonio, A. D., Malagù, S., Servadei, F., & Làdavas, E. (2007). A pilot study for rehabilitation of central executive deficits after traumatic brain injury. _Brain Injury, 21_(1), 11-19. 
+
+Shum, D., Fleming, J., Gill, H., Gullo, M. J., & Strong, J. (2011). A randomized controlled trial of prospective memory rehabilitation in adults with traumatic brain injury. _Journal of rehabilitation medicine, 43_(3), 216-223. 
+
+Sohlberg, M.M., Harn, B., MacPherson, H., Wade, S.L. (2014). A pilot study evaluating attention and strategy training in pediatric traumatic brain injury. _Clinical Practice in Pediatric Psychology, 2_(3), 263-280. 
+
+Spikeman, JM, Boelen, DH, Lamberts, K. et al., (2010). Effects of a multifaceted treatment program for executive dysfunction after acquired brain injury on indications of executive functioning in daily life, _Journal of International Neuropsychological Society_, 16, 118-129. 
+
+Stamenova, V., & Levine, B. (2018). Effectiveness of goal management training® in improving executive functions: A meta-analysis. _Neuropsychological rehabilitation_, 1-31. 
+
+Svoboda, E. & Richards, B. (2009). Compensating for anterograde amnesia: A new training method that capitalizes on emerging smartphone technologies. _Journal of the International Neuropsychology Society_, 15, 629-638. 
+
+Turkstra, L., Ylvisaker, M., Coelho, C., Kennedy, M., Sohlberg, M.M., Avery, J., & Yorkston, K. (2005). Practice guidelines for standardized assessment for persons with traumatic brain injury. _Journal of Medical Speech Language Pathology,13_(2), ix-xxxviii. 
+
+Turkstra, L. S., Norman, R., Whyte, J., Dijkers, M. P., & Hart, T. (2016). Knowing What We're Doing: Why Specification of Treatment Methods Is Critical for Evidence-Based Practice in Speech-Language Pathology. _American Journal of Speech-Language Pathology, 25_(2), 164-171. 
+
+Turkstra, L. S. (2013). Inpatient cognitive rehabilitation: Is it time for a change?. _The Journal of head trauma rehabilitation, 28_(4), 332-336. 
+
+Valitchka, L., & Turkstra, L. S. (2013, August). Communicating with inpatients with memory impairments. In _Seminars in speech and language_ Vol. 34, No. 3, pp. 142-153). 
+
+Ylvisaker, M. (2006). Self-coaching: A context-sensitive, person-centered approach to social communication after traumatic brain injury. _Brain Impairment, 7_(3), 246-258. 
+
+
+## Clinical Materials 
+
+  * APT-3 Manual 
+  * Awareness Tips
+  * Disability Rating Scale (DRS)
+  * Rancho Los Amigos Scale 
+  * Global DAT
+  * Clinical Guide (mTBI)
+  * Galveston Orientation and Amnesia Test
+  * Chapter 5 ACRM - visual scanning training/hemispatial negelct 
+ 
+## Recommended Reading Practice Guidelines/EBP Review
+
+1. Websites with systematic reviews 
+
+    * [Data base for treatment efficiency articles](http://www.psycbite.com)
+    * [IBIA List of Reviews](http://www.internationalbrain.org/?q=node/135)
+    * [ANCDS website]( http://www.ancds.org/)
+    * [ASHA Evidence Maps](http://www.asha.org/EvidenceMapLanding.aspx?id=8589936624&recentarticles=false&year=undefined&tab=all)
+    
+  _Note_: when accessing ANCDS website, first click on _Practice Guidelines_ and then _TBI_
+  
+2. EBP Review Articles 
+
+    * INCOG Recommendations for Best Practices in Cognitive Rehabilitation Journal of Head Trauma Rehabilitation (2014, 29(4): Part 1-V (Attention/Speed of Processing, Executive Functions, Memory) 
+
+    * Cicerone, K. et. al. (2011). Evidence based cognitive rehabilitation: Updated review of the literature 2003 through 2008. _Archives of Physical Medicine & Rehabilitation, 92_(4), 519-530. 
+
+    * ANCDS Systematic Reviews 
+    
+3. Informational Websites 
+
+    * [General information about brain injury for professionals, survivors, educators, and careproviders](http://brainline.org )
+    * [Review of apps for phones, tablets, and computers to assist people with cognitive impairments](https://bestconnections.org)
+    * [Brain Injury Association of America](http://www.biausa.org )
+    * [Defense and Veterans Brain Injury Center (DVBIC) website](http://dvbic.dcoe.mil/cogrehab/index.html )
+    * [DVBIC Resources](https://dvbic.dcoe.mil/system/files/resources/5001.1.1.26_CogRehab_CR_Appendices_508.pdf)
+    * [Clinician's Guide to mTBI](http://www.asha.org/uploadedFiles/ASHA/Practice_Portal/Clinical_Topics/Traumatic_Brain_Injury_in_Adults/Clinicians-Guide-to-Cognitive-Rehabilitation-in-Mild-Traumatic-Brain-Injury.pdf)
+    * [SCORE Study Manuals](https://dvbic.dcoe.mil/study-manuals)
+    
+
+## Expectations 
+
+### Instructor Expectations so that Students Can Maximize the Learning Experience 
+  1. **Approach class with an active, ready-to-learn, receptive stance.**  When students are curious, ask questions, remain non-defensive if provided with critical feedback, and actively engage with the material—they learn.  Adopting a mindset of active learning versus passive receipt of material is critical.  
+
+  2. **Come prepared.** This class is set up to build on the readings and give you a chance to apply the concepts. If you have not read the assignments, the lecture and application exercises will not be as useful. Students are expected to come having completed the assigned work to the best of their ability.  
+
+  3. **Observe standard classroom etiquette and clinical professionalism.** Being punctual, not talking out of turn, and being respectful of all members of the classroom ensures a productive learning milieu. Please turn off your cell phones and do not have social network or email open on your computer during class. Students are expected to adhere to our Code of Ethics including confidentiality when discussing clinic cases. Observe the Diversity expectations listed below and contribute to an inclusive class climate. 
+
+  4. **Communicate with me as the instructor.** Sometimes you may need some extra review or a concept is not clear to you. After you wrestle with the material, and you still need assistance, then come see me. I will always make time to assist with your learning if you are doing your part. I need to know if elements of the class are not working for you. Every student is different. It is your responsibility to communicate concerns to me as I have no other way of knowing. Sometimes an instructor inadvertently makes a statement that offends or hurts—that instructor needs to know this and be given a chance to apologize. Sometimes a student has an unforeseen circumstance that gets in the way of being prepared. Communicating with me allows us to make a plan so you can still learn the material.  I request honest, open communication with my students. 
+
+  5. **Communicate with your peers.** Look around you today. The people in this class will be your peers in the field. It will not be me. I will be asking you to practice learning from each other. Your master’s program gives you only the most basic foundation to begin practicing. You will need to deepen your knowledge in specific areas and develop a plan for lifetime learning if you want to be a solid, and ideally, an excellent clinician. Part of this is learning how to network, and teach and learn from one another.  
+
+
+### Student Expectations of Instructor to Maximize Student Learning Experience 
+  1. **Approach class with an open, receptive attitude.** I need to be ready to learn from you, my students. You may have information or resources that are new to me. If several students are letting me know they don’t understand material, I need to listen, be non-defensive and flexible in altering my teaching. I need to remember that: a) this is not the only class students are taking; b) not everyone learns in the same way or approaches their training in the same fashion; and c) sometimes life gets in the way, and my instructor expectations cannot be met. This does not mean that I alter my goals for what you learn, but I will try and find ways that work for each of you to do the work it takes to learn the material and apply it to your practice. 
+
+  2. **Come prepared.** My lectures should be organized. My reading list should be relevant. Class lectures should be tied to the reading and extend the information presented within. I should provide advance organizers to help you integrate the reading. The activities I ask you to do should provide you with practice in clinical decision making with sufficient structure so you practice relevant clinical skills. I should try and make the information interesting by providing actual clinical examples and tying lectures and exercises to actual clients.  
+
+  3. **Observe classroom etiquette and an inclusive milieu.** I should be punctual and not talk when others are talking. As the instructor I am responsible for guiding discussions and ensuring a respectful atmosphere. I should make sure that all members of the class feel included and comfortable in participating in discussions and asking questions. If students express discomfort, I should take steps to remedy the situation. 
+
+  4. **Facilitate Communication.** I should be an active listener and an honest open communicator. If I have a concern, I should check it out directly with the student. If I make a mistake in my communication, I should apologize and ask for clarification on how to avoid misunderstandings in the future. I should make sure I am reasonably available by returning emails promptly and making space in my schedule for requested face to face meetings.  
+
+
+## Student Engagement Inventory 
+
+Graduate Courses Graduate students are expected to perform work of higher quality and quantity, typically with forty hours of student engagement for each student credit hour. Therefore, a 4-credit graduate course would typically engage students approximately 160 hours for the average student for whom the course is designed.  
+
+
+| **Educational activity** | **Hours student engaged** | **Explanatory comments (if any):**                                                                               |
+| :----------------------- | :-----------------------: | :--------------------------------------------------------------------------------------------------------------- |
+| Course attendance        |            18.5           |                                                                            |
+| Assigned readings        |            65.5           | 3hr per chapter X 6 chapters; 2 hr X 20 articles; 1.5 hr X 5 supplementary clinical material |
+| Projects                 |            20             | Systematic Instructional Portfolio (15 hours); Direct Attention Training Assignment (3 hours); Simucase (2 hours)    |
+| Review & Chew Preparation                 |            5             | 1 hr X 5 applications                                                    |
+| Exam Preparation         |            10             |                                                                            |
+| Final Exam Preparation   |            14             |                                                                            |
+| Total hours:             |            ~145-160            |                                                                                                                  |
+
+
+
+# Additional Information 
+
+## Diversity, Equity and Inclusion 
+
+It is the policy of the University of Oregon to support and value equity and diversity and to provide inclusive learning environments for all students.  To do so requires that we:  
+
+  * respect the dignity and essential worth of all individuals.  
+
+  * promote a culture of respect throughout the University community.  
+
+  * respect the privacy, property, and freedom of others.  
+
+  * reject bigotry, discrimination, violence, or intimidation of any kind.  
+
+  * practice personal and academic integrity and expect it from others.  
+
+  *promote the diversity of opinions, ideas and backgrounds which is the lifeblood of the university. 
+
+ 
+In this course, class discussions, projects/activities and assignments will challenge students to think critically about and be sensitive to the influence, and intersections, of race, ethnicity, nationality, documentation, language, religion, gender, socioeconomic background, physical and cognitive ability, sexual orientation, and other cultural identities and experiences. Students will be encouraged to develop or expand their respect and understanding of such differences. 
+
+ Maintaining an inclusive classroom environment where all students feel able to talk about their cultural identities and experiences, ideas, beliefs, and values will not only be my responsibility, but the responsibility of each class member as well. Behavior that disregards or diminishes another student will not be permitted for any reason. This means that no racist, ableist, transphobic, xenophobic, chauvinistic or otherwise derogatory comments will be allowed. It also means that students must pay attention and listen respectfully to each other’s comments. 
+ 
+ 
+## Indigenous Recognition Statement  
+
+The University of Oregon is located on Kalapuya Ilihi, the traditional indigenous homeland of the Kalapuya people. Today, descendants are citizens of the Confederated Tribes of the Grand Ronde Community of Oregon and the Confederated Tribes of the Siletz Indians of Oregon, and they continue to make important contributions in their communities, at UO, and across the land we now refer to as Oregon. 
+
+ 
+## Using Pronouns and Personal Preference 
+
+The College of Education is always working to include and engage everyone. One way we can do this is to share our pronouns, or the words we want to be called when people aren’t using our name. Like names, pronouns are an important part of how we identify ourselves. Because we recognize that assuming someone’s gender can be hurtful, especially to members of our community who are transgender, genderqueer, or non-binary this practice can assist in promoting respectful communication. As a community, we are all learning together about the importance of pronouns and being better allies to the trans community on campus. If you would like to ensure clarity around pronouns, please feel free to share any pronouns you would prefer me to use when referring to you to help me be aware of how to address you respectfully. [Please visit this university website for more information.](https://studentlife.uoregon.edu/pronouns)
+
+## Documented Disability 
+
+Appropriate accommodations will be provided for students with documented disabilities. If you have a documented disability and require accommodation, arrange to meet with the course instructor within the first two weeks of the term. The documentation of your disability must come in writing from the Accessible Education Center in the Office of Academic Advising and Student Services. Disabilities may include (but are not limited to) neurological impairment, orthopedic impairment, traumatic brain injury, visual impairment, chronic medical conditions, emotional/psychological disabilities, hearing impairment, and learning disabilities. [Click here for more information on the Accessible Education Center](http://aec.uoregon.edu)
+
+
+## Mandatory Reporting of Child Abuse 
+
+UO employees, including faculty, staff, and Graduate Employees, are mandatory reporters of child abuse. This statement is to advise you that that your disclosure of information about child abuse to a UO employee may trigger the UO employee’s duty to report that information to the designated authorities. [Click here for detailed information about mandatory reporting:](http://hr.uoregon.edu/policies-leaves/general-information/mandatory-reporting-child-abuse-and-neglect)
+
+
+## Reporting Title IX Experiences 
+
+Any student who has experienced sexual assault, relationship violence, sex or gender-based bullying, stalking, and/or sexual harassment may seek resources [here](https://safe.uoregon.edu/) To get help by phone, a student can also call either the UO’s 24-hour hotline at 541-346-7244 [SAFE], or the non-confidential Title IX Coordinator at 541-346-8136. From the SAFE website, students may also connect to Callisto, a confidential, third-party reporting site that is not a part of the university.  
+
+ 
+Students experiencing any other form of prohibited discrimination or harassment can find information [here](https://respect.uoregon.edu/) or [here](https://aaeo.uoregon.edu/) or contact the non-confidential AAEO office at 541-346-3123 or the Dean of Students Office at 541-346-3216 for help. As UO policy has different reporting requirements based on the nature of the reported harassment or discrimination, additional information about reporting requirements for discrimination or harassment unrelated to sexual assault, relationship violence, sex or gender based bullying, stalking, and/or sexual harassment is available [here](http://aaeo.uoregon.edu/content/discrimination-harassment)  
+
+Specific details about confidentiality of information and reporting obligations of employees can be found [here](https://titleix.uoregon.edu) 
+
+The instructor of this class will direct students who disclose sexual harassment or sexual violence to resources that can help and has the responsibility to report the information shared with them to the university administration. The instructor of this class is required to report all
+ 
+
+## Academic Misconduct Policy 
+
+All students are subject to the regulations stipulated in the [UO Student Conduct Code.](http://conduct.uoregon.edu) This code represents a compilation of important regulations, policies, and procedures pertaining to student life. It is intended to inform students of their rights and responsibilities during their association with this institution, and to provide general guidance for enforcing those regulations and policies essential to the educational and research missions of the University.   
+
+ 
+## Conflict Resolution  
+
+Several options, both informal and formal, are available to resolve conflicts for students who believe they have been subjected to or have witnessed bias, unfairness, or other improper treatment.  
+
+ It is important to exhaust the administrative remedies available to you including discussing the conflict with the specific individual, contacting the Department Head, or within the College of Education, fall term you can contact the Associate Dean for Academic Affairs and Equity, Lillian Duran, 541-346-2502, [lduran@uoregon.edu.](mailto:lduran@uoregon.edu) Outside the College, you can contact: 
+  * [UO Bias Response Team:](http://bias.uoregon.edu/whatbrt.htm) 346-3216
+  * [Conflict Resolution Services:](http://studentlife.uoregon.edu/support) 346-3216
+  * [Affirmative Action and Equal Opportunity:](http://aaeo.uoregon.edu/) 346-3123
+  
+## Grievance Policy 
+
+A student or group of students of the College of Education may appeal decisions or actions pertaining to admissions, programs, evaluation of performance and program retention and completion. Students who decide to file a grievance should follow [University student grievance procedures](https://policies.uoregon.edu/grievance-procedures) and/or consult with the College Associate Dean for Academic Affairs (Lillian Duran, 346-2502, [lduran@uoregon.edu.](mailto:lduran@uoregon.edu) 
+
+ 
+
+## In Case of Inclement Weather  
+
+In the event the University operates on a curtailed schedule or closes, UO media relations will notify the Eugene-Springfield area radio and television stations as quickly as possible. In addition, a notice regarding the university’s schedule will be posted on the [UO main home page.](https://www.uoregon.edu/) Additional information is available [here.](https://hr.uoregon.edu/about-hr/campus-notifications/inclement-weather) 
+
+ If an individual class must be canceled due to inclement weather, illness, or other reason, a notice will be posted on Canvas or via email. During periods of inclement weather, please check Canvas and your email rather than contact department personnel. Due to unsafe travel conditions, departmental staff may be limited and unable to handle the volume of calls from you and others. 
+
+
+## Course Incomplete Policy 
+
+Students are expected to be familiar with university policy regarding grades of “incomplete” and the time line for completion. For details on the policy and procedures regarding incompletes, Please see click [here](https://education.uoregon.edu/academics/incompletes-courses)
+
+
+# Course Satisfaction of KASA Standards 
+
+**_Needed for certification as a Speech-Language Pathologist_**
+
+
+| **Standard** | **Area** | **Evidence** | **Evaluation Skill** | **Intervention Skill** |
+| :-------------------------------------------------------------------------------------------------------------- | :-------------------: |:-----------------: | :-----------------: | :-----------------: |
+| III-C Student must demonstrate knowledge of the nature of speech, language, hearing, and communication disorders & differences and swallowing disorders, including the etiologies, charateristics/physiological, acoustic, psychological, and linguistic/cultural correlates. | Cognitive & Social aspects of communication       | 1,2,5,8 |             |                |
+| III-D Student must possess knowledge of the principles & methods of prevention, assessment, and intervention for people with communication and swallowing disorders. | Cognitive & Social aspects of communication       | 1,2,5,8 |             |                |
+| III-F The student must demonstrate knowledge of processes used in research & the integration of research principles into evidence-based clinical practice | Cognitive & Social aspects of communication       | 2,7 |             |                |
+| Standard IVG: The applicant must complete a program of study that includes supervised clinical experiences sufficient in breadth and depth to achieve the required evaluation and intervention skills | Cognitive & Social aspects of communication       | 3,5 | b,c,e,f            |  a,b,c,d,e,f              |
+
+
+**Evaluation Skills**
+
+  * (a) = screening and prevention
+  * (b) = case history synthesis
+  * (c) = selection of evaluation procedures 
+  * (d) = adapt evaluation as appropriate 
+  * (e) = integrate evaluation information to develop appropriate diagnoses and recommendations 
+  * (f) = administrative & reporting functions 
+  * (g) = appropriate referral 
+    
+**Evidence Intervention Plans**
+
+  1. Exams (a) intervention with measurable goals 
+  2. Papers (b) collaboration with client/relevant people 
+  3. Performance Evaluation (c) appropriate materials/instrumentation 
+  4. Presentation (d) measure/evaluate performance 
+  5. Demonstrations/labs (e) modify intervention plans 
+  6. Case studies (f) administrative/reporting functions
+  7. Journal/Research Critique (g) appropriate referral 
+  8. Classroom discussions 

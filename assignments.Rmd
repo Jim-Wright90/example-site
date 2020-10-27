@@ -1,0 +1,159 @@
+---
+title: "Assignments"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# Review and Chew
+
+_Course Reading Discussion Groups_
+
+## Purpose 
+
+The “Review & Chew” discussion groups provide opportunities for students to reflect upon and discuss concepts presented in course readings in a small group setting. The opportunity to analyze, share ideas and ask questions deepens learning and enhances critical thinking.  
+
+## Implementation 
+
+Students will be organized into groups of 6. They will stay with their groups for the term. Reading questions will be posted on the course website by the beginning of the week. The questions are designed to guide reading and help students focus on key concepts. Students will be expected to post their responses to the Review & Chew prior to the start of class. During class, students will get into their groups and review their responses. Each “Review & Chew” group will have a facilitator for that session who will guide the discussion and write up a brief summary (bullet points with respect to questions that were discussed) on a piece of paper that will be turned in. The summary may list concepts where there was confusion or disagreement or high agreement or high interest. The facilitators will put their names at the top and then list participating group members.  
+
+ 
+For two of the Review and Chew assigned readings, students will only need to read ONE of two assigned readings. They will email their group prior and decide who will read which article in order to have half read one and half read the other. The facilitator will note the differences between the interventions described in both articles on the summary sheet.  
+
+## Grading 
+
+There will be **_three_** “Review & Chew” group sessions each worth six points, for a total of 30  points. Every student will take one turn being facilitator and writing up the summary. For the two Review and Chew where a comparison of the two articles is required, there will be two facilitators. If students have an excused absence during a “Review & Chew” group, they can write up responses to the reading questions within 24 hours and receive a maximum of 2 points.  
+
+ 
+**_Six points will be awarded for completeness and thoughtful analysis shown in written responses and evidence of active engagement in the discussion._**
+
+## Questions
+
+|**R&C**        | **Questions**                           | **Due**      |  
+|:-------------:| :---------------------------------------|:------------:|  
+| 1             |   [R&C 1]()                             |    1/14/21   | 
+| 2             |   [R&C 2]()                             |    1/28/21   | 
+| 3             |   [R&C 3]()                             |    2/11/21   | 
+
+
+
+# Direct Attention Training Assignment 
+
+**_Description_**: Review AIM or APT-3 program and practice on a peer. [NOTE: The AIM program has the strategy selection and GAS incorporated into the computer program and is set up for pediatric clients whereas the APT-3 program, the strategy selection and GAS is set up independently and is not embedded in the exercises and you would add them yourself to the planning and implementation of the exercise]. Work in partners or in trios. Every student should create their own unique client profile.  
+
+**Due:** 1/28/21
+
+## Preparation
+
+learn components of APT/AIM program. Set up a training program for a hypothetical client (anticipated time: 1.5 hours) 
+
+  1. Think through a profile for a client. The idea is to give you a rationale for your selection of your drills and strategies. Some examples: 
+  
+     + Mild attention deficits with particular difficulty with sustained attention; Impairment             evident on TEA subtest Elevator Counting and concerned about frequent fading out while reading or listening to lectures. Feels like she cannot maintain attention. 
+    
+      + Moderate attention deficit confirmed on multiple subtests of the TEA-CH and on the Working          Memory Scale on the BRIEF on the parent and teacher forms. Working memory is of most concern        but also showed difficulty with sustained and selective attention.  
+
+  2. Independently go through manual/drills and set up a test client—you can name them 
+
+  3. Figure out how you would rate the different areas of attention (AIM program only) or how you would identify areas of attention that are impaired based on your profile. 
+
+  4. Look at options for how you would select the drills. Select 5 drills that tap 1-2 types of attention that match your client profile.  
+
+  5. Look at options for how you would select the strategies—pick two strategies that match your client profile that you would have selected collaboratively. 
+
+  6. Make a program for a hypothetical client 
+  
+
+## Implementation
+
+Conduct the session you set up with your peer partner acting as the client. Go through the session, document performance on the five drills (they are three minutes each—go through all 5), strategy use and motivation and effort ratings. (anticipated time: one hour) 
+
+ 
+
+## Documentation
+
+_One page overview (anticipated time: 1 hour)_
+
+**_Assignment information:_** Put your name at the top and your partner’s name in parentheses. Upload assignment to canvas. Make sure it is in Word. Label file: lastname_DAT 
+
+**_Client profile:_** Write one paragraph describing client attention profile. Include age, sex, attention profile as seen on testing and on clinical interview/questionnaire and desired functional activity that would improve if attention training were useful. This profile should match the information in the SOAP note below. It should include specification of a functional goal (Grading: 7 points-complete, writing clear and error free, clinically logical) 
+
+**_SOAP:_** Write a two paragraph SOAP style note with “O” and “A” sections. In “O” section, generate a table that displays your client’s performance on the drills (accuracy), strategy use (independence) and client ratings of motivation and effort for the last three sessions so that you can compare performance over time. Include a sentence describing data for generalization (e.g., client/parent/teacher ratings classroom focus showed xyz.) In “A” section (e.g, …continues to progress with improvement shown on all drills and effort ratings  and will benefit from increasing difficulty of drills) comment on generalization (e.g.,  In order to increase strategy use outside of clinic, it may be helpful to xyz”). 
+
+ 
+## Grading
+
+  * 15 points: content complete and clinically logical 
+  * 5 points: writing clear and error free 
+  * **Total Points:** 25 points 
+  * **ACE Credit:** 30 minutes 
+
+
+
+
+# Systematic Instruction Portfolio 
+
+**_Description:_**  Students will develop an instructional portfolio designed to showcase their knowledge about how to train people with cognitive impairments in the use of assistive technology for cognition.  In most cases, students will be selecting an app to train, although some students may elect to develop a portfolio for training a specific device. Most students will be generating a hypothetical client and creating hypothetical data. The portfolio will include the following four sections. 
+
+**Due:** 2/18/20 
+
+## Section 1: Client Profile/Needs Assessment/Tool Selection 
+
+This first section will be titled **Tool Selection**. Describe the factors that would be important for a complete Needs Assessment. Ultimately, the profile should provide a rationale for selecting the chosen app/device. The profile should begin with a client description and minimally include age, etiology, time post onset, medical diagnosis, cognitive profile, primary concerns, relevant contextual factors. Your client should have moderate or moderate-severe impairments affecting the ability to learn new information. Think about the key components of a Needs Assessment. You will want to provide sufficient information such that your portfolio matches your client profile. For example, a client with more severe impairments, may need more trials than a client with more mild-moderate impairments. This section will be about a page. You will likely want to construct a table to summarize your needs assessment and then supplement this information with narrative. Review the Needs Assessments from your text and in the slides to ensure that you cover the relevant areas to your client.  Use professional, clinically relevant language to describe your client. Provide citations in APA format as relevant.  
+
+After you describe the client profile, you will write a one paragraph description of the app or device. Look at app reviews on line and look at categories that are rated (e.g., ease of use; clarity; helpfulness; compatibility etc.). What makes people use or not use an app? Part of the selection process is to MATCH the app or device with the profile of your client and make sure that the look and feel and functionality is a good fit.  
+
+## Section 2: Goal Attainment Scale
+
+The second section of your portfolio will be titled: **Goal Attainment Scale**. You will generate a hypothetical five level goal attainment scale that would provide an outcome measure for evaluating IMPACT of training your app or device. Your GAS will be evaluated to see if it meets the SMARTED criteria. Be sure to include Functional Domain, Cognitive Domain and Measurement Plan. This should be less than a page.  
+
+
+## Section 3: Data Sheets 
+
+The third section of your portfolio will be titled: **_Session Data_**. Your session data section will contain two data sheets:  
+
+  1. **_Progress Monitoring Form_** (Form 7.4 can be found in the back of your text and can be downloaded from the publisher website): Complete a hypothetical progress monitoring form with the probe data for sessions 2-5 during the initial acquisition stage of training (i.e., four sessions worth of data).  This is your session probe data that you take at the beginning of the session to determine where to begin training in that session. Note: you will have to develop this after you have thought through the scenarios for the session data form described below. The long-term goal will likely be level 0 of your GAS. The short-term objective will be what you hope to achieve in the four sessions. Your data do not have to reflect meeting the short-term objective as this would have been set prior to initiating training and training sometimes goes quicker or slower than anticipated. Provide some comments on specific supports, engagement strategies and generalization programming that match the profile of your client as described on page 1. Also, be sure to make the progress of your client match the profile. Review Figure 7.7 in your textbook for an example.  
+    
+  2. **_Session Data from two consecutive sessions_** (Form 7.5 can be found in the back of your text or you can develop your data collection system): This part of the assignment will need to be integrated with the progress monitoring data. You will complete hypothetical data for two sessions. One session will show the data when the client was having difficulty learning one of the steps. It should be evident how you responded as the clinician. The other session will show data from successfully teaching two steps in succession. Note you are chaining steps together in every session and your data should reflect this. Review Figures 7.8, 7.9 and 7.10 in your textbook for samples.  
+    
+## Section 4: Video and Video Description 
+
+The fourth section of your portfolio will be titled **Video Description**. You will write a paragraph describing the instruction shown in your video. _Explain which session from your session data form you are demonstrating and choose a session where the client made an error_. 
+
+**_Video Components_**: You will make a demonstration video teaching an “actor” or “real” client to use your tool. Actor will need to know what to do in order to be consistent with your data. The session will be an excerpt from one of the two sessions above from which you developed session data 
+
+The video will contain the following components: 
+
+  * Minutes 1-2: Beginning of the session. This segment will show you introducing the session and administering the progress monitoring probe to evaluate retention. Clear language, scaffolding from the previous session will be evaluated. 
+
+  * Minutes 2-5: Show a segment of training that you have identified in your paragraph. Video should incorporate key the principles of SI training, including error minimization and promotion of client engagement. 
+
+  * Minutes 6: Session wrap up 
+    
+
+**Google Doc will be created for you to put link to your video**
+
+
+## Portfolio Format
+
+  * All written segments should be of high caliber with clear, cohesive, grammatical writing. Use references as appropriate that include an APA reference list. Put name on the first page on upper, right corner. 
+  * Submit written assignments to Canvas 
+  * Videos should be uploaded to YouTUbe under private, unlisted setting. Insert private YouTube link into Canvas written assignment submission page. 
+    
+## Portfolio Grading 
+
+The project is worth 50 points. The point allocation for each section is listed below. Content for what we are looking for in each section is provided in the descriptions above. Points will be deducted for missing, erroneous, or incomplete components, or writing that does not have the above listed characteristics. Additionally, two points will be deducted for each day the portfolio is late. 
+
+  * Section 1: 10 Points
+  * Section 2: 5 Points 
+  * Section 3: 15 Points 
+  * Section 4: 15 Points 
+  * Writing and Portfolio Presentation: 5 Points 
+    
+  * **ACE Award:** 30 Minutes 
+
+
+# PBE Assignment 
+
+# Asynchronous Lectures Discussion Questions and Quizzes 
