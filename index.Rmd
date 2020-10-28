@@ -9,6 +9,3 @@ The course utilizes a combination of readings, lecture, group discussion, videos
 **_Note this course and associated content was developed by Dr. McKay Sohlberg_**
 
 
-```{r, include=FALSE}
-rmarkdown::render_site()
-```
