@@ -20,7 +20,6 @@ output:
     #css: website-custom.css # add in custom css if you want
     css: website-custom.css
     includes:
-      in_header: header.html
       after_body: footer.html # for license
     lib_dir: site_libs
     self_contained: no
